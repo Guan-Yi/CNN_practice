@@ -7,5 +7,5 @@ using method:
 python captcha.py [dirname] [number of image]
 ```
 ## Reference
-[JasonLiTW/simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver)  
-[junmo1215/nctu_portal](https://github.com/junmo1215/nctu_portal)
+*[JasonLiTW/simple-railway-captcha-solver](https://github.com/JasonLiTW/simple-railway-captcha-solver)  
+*[junmo1215/nctu_portal](https://github.com/junmo1215/nctu_portal)
